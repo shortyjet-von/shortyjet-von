@@ -1,0 +1,4 @@
+shortyjet-von
+=============
+
+my blog
